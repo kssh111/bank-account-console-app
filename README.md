@@ -1,5 +1,9 @@
 # 🏦 Bank Account Console Application
 
+[![Java](https://img.shields.io/badge/Java-11+-orange.svg)](https://www.oracle.com/java/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-2.0-green.svg)](https://github.com/kssh111/bank-account-console-app)
+
 A professional banking system console application with deposit, withdrawal, transfer operations, and comprehensive transaction history management.
 
 ## 📋 Table of Contents
@@ -372,6 +376,12 @@ Contributions are welcome!
 - ✅ Javadoc comments
 - ✅ Proper exception handling
 - ✅ Thread-safe code
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
